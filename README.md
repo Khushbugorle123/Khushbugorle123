@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbugorle123&label=Profile%20views&color=0e75b6&style=flat" alt="khushbugorle123" /> </p>
 
-- 🌱 I’m currently learning **Java,DSA,Python etc.**
+- 🌱 I’m currently learning **C++,DSA,Core Java, Web Dev etc.**
 
 - 📫 How to reach me **:**
 
